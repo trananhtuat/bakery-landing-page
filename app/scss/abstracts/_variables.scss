@@ -1,0 +1,28 @@
+$body-bg: #fff;
+$main-color: #f54749;
+$txt-color: #000;
+$txt-white: #fff;
+
+$header-height: 128px;
+$header-shrink-height: 90px;
+$header-mobile-height: 90px;
+$header-mobile-shrink-height: 50px;
+
+$mobile-width: 600px;
+$tablet-width: 1024px;
+
+$border-radius: 30px;
+
+$font-family: "Signika", sans-serif;
+
+$bg-linear: linear-gradient(
+    180deg,
+    #fef5f6 75.52%,
+    rgba(255, 255, 255, 0) 100%
+);
+
+$bg-linear-reverse: linear-gradient(
+    0deg,
+    #fef5f6 76.07%,
+    rgba(255, 255, 255, 0) 98.61%
+);

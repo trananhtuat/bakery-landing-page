@@ -4,7 +4,7 @@
 
 # Video tutorial
 
-    link
+    https://youtu.be/Oq19HVbblDc
 
 # Resource
 
